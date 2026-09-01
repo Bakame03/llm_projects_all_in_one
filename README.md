@@ -16,7 +16,9 @@ This repository tracks my progression from AI Enthusiast to AI Engineer. It serv
 | :--- | :--- | :--- |
 | `01_api_setup` | Setting up the `uv` environment and testing the Gemini API. | ✅ Done |
 | `02_website_summarizer` | Extracting website content via web scraping and using a Frontier LLM (Gemini) with System/User prompts to generate smart markdown summaries. | ✅ Done |
-| `03_coming_soon` | More advanced AI engineering projects are on the way. Stay tuned! 🚀 | ⏳ Planned |
+| `03_tokenization_and_llm_memory` | Exploring subword tokenization with `tiktoken` and handling the stateless nature of APIs by building conversational memory. | ✅ Done |
+| `04_brochure_generator_and_llm_chaining` | Building a business solution by chaining LLM calls, enforcing structured JSON outputs for decision making, and implementing response streaming. | ✅ Done |
+| `05_coming_soon` | More advanced AI engineering projects are on the way. Stay tuned! 🚀 | ⏳ Planned |
 
 ## 🚀 How to Run Locally
 
